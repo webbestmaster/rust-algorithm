@@ -1,3 +1,7 @@
+// [dependencies]
+// crossterm = "0.29.0"
+// rand = "0.9.2"
+
 use crossterm::{
     cursor,
     event::{self, Event, KeyCode},
